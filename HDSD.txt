@@ -1,0 +1,11 @@
+﻿chạy file sql
+chỉnh quyền đăng nhập SQL với id SA và Pass bỏ trống
+
+Phân quyền phần mềm
+Admin
+id : NV001
+Pass : 1
+
+Nhân viên
+id : NV005
+Pass: 1
